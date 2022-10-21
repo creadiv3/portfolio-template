@@ -25,7 +25,7 @@
 83C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\abortcontroller-polyfill133107662738705207 1
 68C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\is-number133107664061512825 1
 155C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133107662727152599 1
-50C:\Users\bartk\Desktop\dev\portfolio-template\dist133108154292552186 1
+50C:\Users\bartk\Desktop\dev\portfolio-template\dist133108178441136424 1
 102C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\online-status.js133107662748514059 0
 78C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\weak-lru-cache\dist133107662714832562 1
 95C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\jpegxr.js133107662746228343 0
@@ -47,14 +47,14 @@
 103C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133107662717754282 0
 115C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs.map133107662716047705 0
 81C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\ansi-styles\index.d.ts133107662716327706 0
-56C:\Users\bartk\Desktop\dev\portfolio-template\index.html133108154291710204 0
+56C:\Users\bartk\Desktop\dev\portfolio-template\index.html133108173075830109 0
 58C:\Users\bartk\Desktop\dev\portfolio-template\node_modules133107664069415326 1
 99C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\nav-timing.js133107662748023981 0
 89C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\source-map\lib\mapping-list.js133107662717342929 0
 87C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\node-releases\data\processed133107662715212526 1
 101C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\border-image.js133107662739719352 0
 109C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133107662715182573 0
-56C:\Users\bartk\Desktop\dev\portfolio-template\style.scss133108151648511581 0
+56C:\Users\bartk\Desktop\dev\portfolio-template\style.scss133108178440101411 0
 79C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\electron-to-chromium133107662737394862 1
 67C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\entities133107662738210028 1
 116C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133107662717262936 0
@@ -455,7 +455,7 @@
 100C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\text-stroke.js133107662750912289 0
 71C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\resolve-from133107662715717707 1
 90C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\regions\ME.js133107662747328842 0
-73C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.8353e49f.css.map133108151649541561 0
+73C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.8353e49f.css.map133108178441106421 0
 89C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\yaml\dist\warnings-1000a372.js133107662723862435 0
 70C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\safe-buffer133107662716197700 1
 84C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\terser\lib\utils\index.js133107662743676075 0
@@ -861,7 +861,7 @@
 113C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\css-file-selector-button.js133107662741144946 0
 106C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133107662722086616 0
 106C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133107662734176777 0
-69C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.8353e49f.css133108151649491567 0
+69C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.8353e49f.css133108178441066386 0
 101C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\utility-types\dist\aliases-and-guards.d.ts133107662733878898 0
 87C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@lezer\common\dist\tree.d.ts133107662743966069 0
 99C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\utility-types\dist\aliases-and-guards.js133107662733548223 0
@@ -1587,7 +1587,7 @@
 111C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@swc\helpers\lib\_class_private_field_destructure.js133107662720439813 0
 101C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133107662724947730 0
 87C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\postcss-value-parser\LICENSE133107662714742531 0
-61C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.html133108154292521546 0
+61C:\Users\bartk\Desktop\dev\portfolio-template\dist\index.html133108173076602936 0
 92C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\postcss-value-parser\package.json133107662716902917 0
 69C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\parcel\lib133107662734466882 1
 109C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\caniuse-lite\data\features\high-resolution-time.js133107662745087779 0
@@ -3802,7 +3802,7 @@
 95C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-css\package.json133107662718294296 0
 104C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-css\src\CSSTransformer.js133107662718104309 0
 88C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-babel\src133107662720705002 1
-70C:\Users\bartk\Desktop\dev\portfolio-template\dist\splash.91c6a753.jpg133107695824609813 0
+70C:\Users\bartk\Desktop\dev\portfolio-template\dist\splash.91c6a753.jpg133108169705688195 0
 98C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-babel\src\babel7.js133107662716497795 0
 98C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-babel\src\config.js133107662717764288 0
 109C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133107662719355245 0
@@ -4338,5 +4338,5 @@
 74C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\.bin\terser.cmd133107662812998958 0
 74C:\Users\bartk\Desktop\dev\portfolio-template\node_modules\.bin\terser.ps1133107662812998958 0
 60C:\Users\bartk\Desktop\dev\portfolio-template\img\splash.jpg133107673521175969 0
-81C:\Users\bartk\Desktop\dev\portfolio-template\dist\portfolio-template.3464ddca.js133107695824429859 0
-85C:\Users\bartk\Desktop\dev\portfolio-template\dist\portfolio-template.3464ddca.js.map133107695824479845 0
+81C:\Users\bartk\Desktop\dev\portfolio-template\dist\portfolio-template.3464ddca.js133108169704783053 0
+85C:\Users\bartk\Desktop\dev\portfolio-template\dist\portfolio-template.3464ddca.js.map133108169704923122 0
