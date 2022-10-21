@@ -83,13 +83,13 @@ h3 {
     z-index: 2;
 
     &-icon {
-      font-size: 30px;
+      font-size: 40px;
       background: $color-main;
       width: 60px;
       height: 60px;
       border-radius: 50%;
       color: $color-light;
-      padding: 14px 4px 0 0;
+      padding: 10px 1px 0 0;
     }
 
     &-title {
@@ -121,7 +121,7 @@ h3 {
   }
 }
 
-/* Intro */
+/* INTRO */
 
 .intro {
   background: $color-light;
@@ -138,12 +138,52 @@ h3 {
   }
 }
 
-/* About */
+/* ABOUT */
 
 .about {
   background: $color-grey;
 
   &__description {
     font-size: 20px;
+  }
+}
+
+/* SKILLS */
+
+.skills {
+  article {
+    position: relative;
+  }
+
+  &__image {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+
+    &-right {
+      right: 0;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: all 1s;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+
+  &__description {
+    padding: 36px 0 26px 55%;
+    text-align: left;
+
+    &-right {
+      padding: 36px 55% 36px 0;
+      text-align: right;
+    }
   }
 }
