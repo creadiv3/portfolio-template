@@ -263,3 +263,48 @@ h3 {
     margin-top: 60px;
   }
 }
+
+/* CONTACT */
+
+.contact {
+  background: #171717;
+
+  h3 {
+    color: $color-light;
+  }
+  &__form {
+    input {
+      display: block;
+      margin: 0 auto;
+      width: 20%;
+      height: 50px;
+      margin-bottom: 10px;
+      padding-left: 10px;
+      font-family: $font-text;
+    }
+
+    textarea {
+      display: block;
+      margin: 0 auto;
+      width: 20%;
+      height: 150px;
+      font-family: $font-text;
+      padding: 10px 10px;
+    }
+  }
+
+  &__btn {
+    border: none;
+    width: 130px;
+    height: 50px;
+    background-color: $color-main;
+    color: $color-light;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-top: 50px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

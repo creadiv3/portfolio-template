@@ -146,6 +146,23 @@
       <button class="more" type="button">VIEW MORE</button>
     </section>
 
+    <section class="contact">
+      <h3>Contact</h3>
+      <form action="/signup" method="post" class="contact__form">
+        <input type="text" name="name" placeholder="Your name" />
+        <input type="email" name="email" placeholder="Your e-mail" />
+        <input type="text" name="subject" placeholder="Subject" />
+        <textarea
+          name="message"
+          placeholder="Type your message here"
+          maxlength="300"
+          required
+          spellcheck
+        ></textarea>
+        <button class="contact__btn" type="submit">SUBMIT</button>
+      </form>
+    </section>
+
     <script
       src="https://kit.fontawesome.com/be8c33a886.js"
       crossorigin="anonymous"
