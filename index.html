@@ -50,7 +50,7 @@
         <article class="skills__left">
           <div class="skills__image">
             <img
-              src="img/design.jpg"
+              src="img/design.webp"
               alt="blank peace of paper and pens in basket"
             />
           </div>
@@ -67,7 +67,7 @@
         </article>
         <article class="skills__right">
           <div class="skills__image skills__image-right">
-            <img src="img/code.jpg" alt="men sitting in fron of netbook" />
+            <img src="img/code.webp" alt="men sitting in fron of netbook" />
           </div>
           <div class="skills__description-right">
             <h4>I CODE</h4>
@@ -82,7 +82,7 @@
         </article>
         <article class="skills__left">
           <div class="skills__image">
-            <img src="img/goals.jpg" alt="to do lsit" />
+            <img src="img/goals.webp" alt="to do lsit" />
           </div>
           <div class="skills__description">
             <h4>I WANT</h4>
@@ -97,55 +97,6 @@
         </article>
       </div>
     </section>
-
-    <!-- <section class="gallery">
-      <h3>Porfolio</h3>
-      <div class="gallery__boxes">
-        <div class="gallery__box">
-          <img src="img/1.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-        <div class="gallery__box">
-          <img src="img/2.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-        <div class="gallery__box">
-          <img src="img/3.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-        <div class="gallery__box">
-          <img src="img/4.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-        <div class="gallery__box">
-          <img src="img/5.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-        <div class="gallery__box">
-          <img src="img/6.jpg" alt="" />
-          <div class="gallery__box-details">
-            <h4>CURABITUR ID</h4>
-            <button type="button">SEE DETAILS</button>
-          </div>
-        </div>
-      </div>
-      <button class="more" type="button">VIEW MORE</button>
-    </section> -->
 
     <section class="gallery">
       <h3>Porfolio</h3>
@@ -195,16 +146,33 @@
     <section class="contact">
       <h3>Contact</h3>
       <form action="/signup" method="post" class="contact__form">
-        <input type="text" name="name" placeholder="Your name" />
-        <input type="email" name="email" placeholder="Your e-mail" />
-        <input type="text" name="subject" placeholder="Subject" />
-        <textarea
-          name="message"
-          placeholder="Type your message here"
-          maxlength="300"
-          required
-          spellcheck
-        ></textarea>
+        <fieldset>
+          <legend>Please don't hesitate to write</legend>
+          <input
+            type="text"
+            name="name"
+            minlength="2"
+            maxlength="36"
+            placeholder="Your name"
+            required
+          />
+          <input type="email" name="email" placeholder="Your e-mail" required />
+          <input
+            type="text"
+            minlength="2"
+            maxlength="36"
+            name="subject"
+            placeholder="Subject"
+            required
+          />
+          <textarea
+            name="message"
+            placeholder="Type your message here"
+            minlength="2"
+            maxlength="300"
+            required
+          ></textarea>
+        </fieldset>
         <button class="contact__btn" type="submit">SUBMIT</button>
       </form>
     </section>

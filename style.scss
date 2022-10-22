@@ -58,7 +58,7 @@ h3 {
 .splash {
   position: relative;
   height: 100vh;
-  background-image: url("img/splash.jpg");
+  background-image: url("img/splash.webp");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -191,96 +191,23 @@ h3 {
 
 /* GALLERY */
 
-// .gallery {
-//   button {
-//     border: none;
-//     width: 130px;
-//     height: 60px;
-//     background-color: $color-main;
-//     color: $color-light;
-//     letter-spacing: 1px;
-//     font-weight: 600;
-
-//     &:hover {
-//       cursor: pointer;
-//     }
-//   }
-//   &__boxes {
-//     &::before,
-//     &::after {
-//       clear: both;
-//       content: "";
-//       display: table;
-//     }
-//   }
-
-//   &__box {
-//     position: relative;
-//     float: left;
-//     height: 300px;
-//     width: 33.3333%;
-//     background-color: $color-grey;
-//     overflow: hidden;
-
-//     &:hover::after {
-//       position: absolute;
-//       content: "";
-//       width: 100%;
-//       height: 100%;
-//       top: 0;
-//       left: 0;
-//       background-color: rgba(0, 0, 0, 0.555);
-//     }
-
-//     &-details {
-//       display: none;
-//       position: absolute;
-//       width: 100%;
-//       top: 50%;
-//       left: 50%;
-//       transform: translate(-50%, -50%);
-
-//       h4 {
-//         color: $color-light;
-//         font-size: 20px;
-//       }
-//     }
-
-//     img {
-//       width: 100%;
-//       filter: grayscale(100%);
-//     }
-
-//     &:hover {
-//       .gallery__box-details {
-//         display: block;
-//         z-index: 3;
-//       }
-//     }
-//   }
-
-//   .more {
-//     margin-top: 60px;
-//   }
-// }
-
 .img-1 {
-  background-image: url("img/1.jpg");
+  background-image: url("img/1.webp");
 }
 .img-2 {
-  background-image: url("img/2.jpg");
+  background-image: url("img/2.webp");
 }
 .img-3 {
-  background-image: url("img/3.jpg");
+  background-image: url("img/3.webp");
 }
 .img-4 {
-  background-image: url("img/4.jpg");
+  background-image: url("img/4.webp");
 }
 .img-5 {
-  background-image: url("img/5.jpg");
+  background-image: url("img/5.webp");
 }
 .img-6 {
-  background-image: url("img/6.jpg");
+  background-image: url("img/6.webp");
 }
 
 .gallery {
@@ -357,23 +284,39 @@ h3 {
     color: $color-light;
   }
   &__form {
+    fieldset {
+      padding: 10px 10px;
+      width: 400px;
+      margin: 0 auto;
+    }
+
+    legend {
+      color: $color-light;
+    }
+
     input {
       display: block;
       margin: 0 auto;
-      width: 20%;
+      width: 380px;
       height: 50px;
       margin-bottom: 10px;
       padding-left: 10px;
       font-family: $font-text;
     }
 
+    input:valid,
+    textarea:valid {
+      background-color: #55ee70;
+    }
+
     textarea {
       display: block;
       margin: 0 auto;
-      width: 20%;
+      width: 380;
       height: 150px;
       font-family: $font-text;
       padding: 10px 10px;
+      resize: none;
     }
   }
 
