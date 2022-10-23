@@ -14,14 +14,14 @@
 115C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133107662719195239 0
 118C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\reporter-dev-server\src\Server.js133107662720954992 0
 100C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\terser\lib\sourcemap.js133107662746258341 0
-68C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist133109110521552300 1
+68C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist133109797715849067 1
 109C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\svgo\plugins\convertTransform.js133107662720935031 0
 103C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@babel\highlight\README.md133107662715052544 0
 137C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133107662740191992 0
 95C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\src\windows.c133107662728467812 0
 120C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\node-resolver-core\test\resolver.js133107662726922625 0
 87C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\fill-range133107664061522868 1
-74C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\style.scss133109109827697954 0
+74C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\style.scss133109797714884142 0
 116C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\utils\test\prettifyTime.test.js133107662724362373 0
 103C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\utility-types\CHANGELOG.md133107662733808905 0
 122C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133107662721535047 0
@@ -57,7 +57,7 @@
 116C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\htmlnano\lib\modules\removeUnusedCss.js133107662735777717 0
 112C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\runtime-js\src\JSRuntime.js133107662722096622 0
 105C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\watcher\package.json133107662721996619 0
-74C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\index.html133109110517149506 0
+74C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\index.html133109796770793262 0
 121C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\caniuse-lite\data\features\input-datetime.js133107662745688341 0
 130C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js.map133107662726722645 0
 101C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\abortcontroller-polyfill133107662738705207 1
@@ -1821,7 +1821,7 @@
 89C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\keys.js133107662735102566 0
 125C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\caniuse-lite\data\features\css-widows-orphans.js133107662742545063 0
 111C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\domutils\lib\manipulation.d.ts.map133107662718464383 0
-87C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.8353e49f.css133109110521258764 0
+87C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.8353e49f.css133109797715769072 0
 90C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\level.js133107662735122546 0
 95C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\node-index.js133107662735142540 0
 144C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133107662731655094 0
@@ -1945,7 +1945,7 @@
 134C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133107662728367780 0
 146C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133107662727647819 1
 118C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\csso\lib\restructure\8-restructRuleset.js133107662717232982 0
-79C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.html133109110521528710 0
+79C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.html133109796771655116 0
 134C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133107662728407756 0
 105C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\csso\lib\clean\WhiteSpace.js133107662723902396 0
 124C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133107662727392633 1
@@ -4381,5 +4381,5 @@
 89C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\favicon.c1b29cd4.png133109110521138734 0
 87C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\goals.b2ac3c25.jpg133108999707173770 0
 91C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.62c214dd.css.map133108338024100014 0
-91C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.8353e49f.css.map133109110521298762 0
+91C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\index.8353e49f.css.map133109797715819048 0
 88C:\Users\bartk\Desktop\dev\html and css only\portfolio-template\dist\splash.eb84aa09.jpg133108338016911718 0
